@@ -29,8 +29,8 @@ Machine Learning, Data Structures & Algorithms, Agentic AI and Backend Developme
 
 ## 📫 Connect With Me
 
-* LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/sagar-n-115b8a419/)
-* Email: [sagarn2404@gmail.com](mailto:your.email@example.com)
+* LinkedIn(https://www.linkedin.com/in/sagar-n-115b8a419/)
+* Email(mailto:sagarn2404@gmail.com)
 
 
 
