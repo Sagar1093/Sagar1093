@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sagar N 👋
 
-<!--
-**Sagar1093/Sagar1093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science (Data Science) Student at New Horizon College of Engineering.
 
-Here are some ideas to get you started:
+💻 Passionate about Machine Learning, Data Science and building real-world applications using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy working on projects involving:
+
+* Machine Learning & Data Analysis
+* FastAPI and Streamlit Applications
+* REST API Development
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, Java, C, SQL
+* **Frameworks:** FastAPI, Streamlit
+* **Libraries:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib
+* **Tools:** Git, GitHub.
+
+## 📌 Featured Projects
+
+* **TrustLens – User Credibility System**
+* **Bengaluru House Price Prediction**
+* **Sensor-Based Object Following Robot**
+
+## 🌱 Currently Learning
+
+Machine Learning, Data Structures & Algorithms, Agentic AI and Backend Development.
+
+## 📫 Connect With Me
+
+* LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/sagar-n-115b8a419/)
+* Email: [sagarn2404@gmail.com](mailto:your.email@example.com)
+
+
+
