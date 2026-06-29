@@ -14,7 +14,7 @@
 
 * **Languages:** Python, Java, C, SQL
 * **Frameworks:** FastAPI, Streamlit
-* **Libraries:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib
+* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
 * **Tools:** Git, GitHub.
 
 ## 📌 Featured Projects
